@@ -3,7 +3,6 @@ title: Mary And Buddha
 author: S.R. Weaver
 tags: osazusacos lyrics
 ---
-## Mary And Buddha
 <iframe scrolling="no" id="hearthis_at_track_7111049" width="100%" height="150" src="https://app.hearthis.at/embed/7111049/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency allow="autoplay"><p>Listen to <a href="https://hearthis.at/todiaspora/mary-and-buddhabasicmelody/" target="_blank">Mary And Buddha</a> <span>by</span><a href="https://hearthis.at/todiaspora/" target="_blank" >ToDiaspora</a> <span>on</span> <a href="https://hearthis.at/" target="_blank">hearthis.at</a></p></iframe>
 
 ### Mary And Buddha
