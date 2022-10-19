@@ -13,22 +13,22 @@ I’m influenced by Nobue Uematsu and Elsa Lughini, if and when I ever develop a
 
 So here I will go into my specific:
 
-IDEALS
+## IDEALS
 -- I value authenticity and historical accuracy.<br />
 -- I want the freedom to be able to grow over time.<br />
 -- I value the ability to adapt to new situations.<br />
 
-EXPECTATIONS
+## EXPECTATIONS
 -- I expect a degree of gallows humor and self-deprecation.<br />
 -- About the removal of attachment from the material.<br />
 -- The creator should be able to experiment as they need to to perfect their craft.<br />
 -- A do yourself aesthetic that allows for a degree of Japanese style minimalism in design.<br />
 
-ANARCHISM
+## ANARCHISM
 -- If the band arrangement must be sustained through aggression, then it must be discarded.<br />
 -- Desires total freedom of the individual creator.
 
-INSTRUMENTATION
+## INSTRUMENTATION
 While there is a general pattern in instruments used, the creator is also encouraged to learn as many instruments as possible, so one can adapt to the context by switching instruments. [ A keyboard to an accordion. ]
 
 -- Flute<br />
@@ -37,8 +37,8 @@ While there is a general pattern in instruments used, the creator is also encour
 
 It thus values situations of the unplanned.
 
-LANGUAGE
+## LANGUAGE
 I am to continue fleshing out the Os Azusacos Language, which is a kind of French and Japanese hybrid that using Japanese vocabulary, and French grammar to create a thing that resembles something of its own rhythm pattern.
 
-IDEAS OF PERFECTION
+## IDEAS OF PERFECTION
 I seek a kind of Wabi Sabi like feeling in outfits that embraces aspects of the imperfect aspect of nature. This can allow for people to wear more comfortable clothes during the concept.
