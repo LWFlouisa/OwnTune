@@ -31,9 +31,8 @@ ANARCHISM
 INSTRUMENTATION
 While there is a general pattern in instruments used, the creator is also encouraged to learn as many instruments as possible, so one can adapt to the context by switching instruments. [ A keyboard to an accordion. ]
 
--- Piano
--- Accordion
--- Violincello
+-- Flute
+-- Harmonica
 -- Tap Dancing
 
 It thus values situations of the unplanned.
