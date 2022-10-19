@@ -14,25 +14,25 @@ I’m influenced by Nobue Uematsu and Elsa Lughini, if and when I ever develop a
 So here I will go into my specific:
 
 IDEALS
--- I value authenticity and historical accuracy.
--- I want the freedom to be able to grow over time.
--- I value the ability to adapt to new situations.
+-- I value authenticity and historical accuracy.<br />
+-- I want the freedom to be able to grow over time.<br />
+-- I value the ability to adapt to new situations.<br />
 
 EXPECTATIONS
--- I expect a degree of gallows humor and self-deprecation.
--- About the removal of attachment from the material.
--- The creator should be able to experiment as they need to to perfect their craft.
--- A do yourself aesthetic that allows for a degree of Japanese style minimalism in design.
+-- I expect a degree of gallows humor and self-deprecation.<br />
+-- About the removal of attachment from the material.<br />
+-- The creator should be able to experiment as they need to to perfect their craft.<br />
+-- A do yourself aesthetic that allows for a degree of Japanese style minimalism in design.<br />
 
 ANARCHISM
--- If the band arrangement must be sustained through aggression, then it must be discarded.
+-- If the band arrangement must be sustained through aggression, then it must be discarded.<br />
 -- Desires total freedom of the individual creator.
 
 INSTRUMENTATION
 While there is a general pattern in instruments used, the creator is also encouraged to learn as many instruments as possible, so one can adapt to the context by switching instruments. [ A keyboard to an accordion. ]
 
--- Flute
--- Harmonica
+-- Flute<br />
+-- Harmonica<br />
 -- Tap Dancing
 
 It thus values situations of the unplanned.
