@@ -1,5 +1,5 @@
 ---
-title: "Modified Piano Scales"
+title: "Augmented Gypsy Scale"
 author: SRWeaver
 tags: pentatonicminor spanishgypsy mixolydian
 ---
