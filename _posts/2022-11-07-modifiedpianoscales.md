@@ -12,4 +12,4 @@ Hematos, Nadines, and Ehenas.
 
 ![Chord Set One](https://raw.githubusercontent.com/LWFlouisa/SRWeaverAzupop/main/images/MusicTheory/red_chords.png)
 ![Chord Set Two](https://raw.githubusercontent.com/LWFlouisa/SRWeaverAzupop/main/images/MusicTheory/green_chords.png)
-![Chord Set Tre](https://raw.githubusercontent.com/LWFlouisa/SRWeaverAzupop/main/images/MusicTheory/blond_chart.png)
+![Chord Set Tre](https://raw.githubusercontent.com/LWFlouisa/SRWeaverAzupop/main/images/MusicTheory/blond_chords.png)
