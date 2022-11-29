@@ -11,7 +11,7 @@ In Japanese culture, specifically Cool Japan, they kind of bypassed those issues
 
 And for that reason I’ve wanted to pay an homage to both languages, as I slowly developed a fondness for either culture and language. And that also include some of their pop music. But this was all prior to the Korean Wave happening. To go into why that poses a problem, imagine if:
 
-(1. You’re trying to overcome your issues with French culture.
+(1. You’re trying to overcome your issues with French culture.<br />
 (2. You’re also trying to develop a constructed language that pays an homage to both cultures, while also critiquing both countries military histories.
 
 Korean and the rest of East Asia other than China has had issues with both Japanese and French colonialism, which would mean in theory whatever issues they had with other culture would be vastly more understandable. But this poses a major problem if your developing a fictional language, where the entire reason it exists is to develop a common Lingua Franca that both French speakers and Japanese speakers can use without learning each other’s language.
